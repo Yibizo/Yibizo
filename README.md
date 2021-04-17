@@ -1,8 +1,8 @@
 ## Hi!
 
-Welcome to my Github Profile.
+Welcome to my Github Profile, feel free to look around my repositories.
 
-My name is Diego Mejía, a student at [Instituto Tecnológico y de Estudios Superiores de Monterrey](https://tec.mx/en).
+My name is Diego Mejía, a student at <a href="https://tec.mx/en" target="_blank">Instituto Tecnológico y de Estudios Superiores de Monterrey</a>.
 
 ## 💻 Career
 Bachelors in Computer Science
@@ -33,7 +33,7 @@ June, 2023
 - (DE) Basic German
 
 ## 📞 Business
-- 📑 <a href="./Resumes/Diego_Mejia_Resume_2.pdf" download>Updated Resume / CV</a>
+- 📑 [Updated Resume / CV](./resumes/Diego_Mejia_Resume_2.pdf)
 - 📧 [E-mail](mailto:diegomejiasuarez@gmail.com)
 - 🔗 <a href="https://yibizo.github.io/" target="_blank">Website</a>
 
