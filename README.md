@@ -33,7 +33,7 @@ June, 2023
 - (DE) Basic German
 
 ## 📞 Business
-- 📑 <a href="./Resumes/Diego_Mejia_Resume_2.pdf" target="_blank">Updated Resume / CV</a>
+- 📑 <a href="./Resumes/Diego_Mejia_Resume_2.pdf" download>Updated Resume / CV</a>
 - 📧 [E-mail](mailto:diegomejiasuarez@gmail.com)
 - 🔗 <a href="https://yibizo.github.io/" target="_blank">Website</a>
 
