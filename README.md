@@ -1,4 +1,4 @@
-## Hi!
+# Hi!
 
 Welcome to my Github Profile, feel free to look around my repositories.
 
