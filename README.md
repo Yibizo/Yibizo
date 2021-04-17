@@ -37,5 +37,5 @@ June, 2023
 - 📧 [E-mail](mailto:diegomejiasuarez@gmail.com)
 - 🔗 <a href="https://yibizo.github.io/" target="_blank">Website</a>
 
-## Profile Visits
+## 🔎 Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yibizo.Yibizo)
