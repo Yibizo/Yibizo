@@ -7,7 +7,7 @@ My name is Diego Mejía, a student at <a href="https://tec.mx/en" target="_blank
 ## 💻 Career
 Bachelors in Computer Science
 
-## 🎓 Expected Graduation
+## 🎓 Graduation
 June, 2023
 
 ## 👨‍💻 Languages
@@ -30,7 +30,6 @@ June, 2023
 ## 💬 Spoken Languages
 - (ES) Native Spanish
 - (EN) Fluent English
-- (DE) Basic German
 
 ## 📞 Business
 - 📧 [E-mail](mailto:diegomejiasuarez@gmail.com)
