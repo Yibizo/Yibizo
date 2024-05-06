@@ -14,10 +14,12 @@ June, 2023
 - <img src="./logos/python_logo.png" width="10vw"> Python
 - <img src="./logos/c_plus_plus_logo.png" width="10vw"> C/C++
 - <img src="./logos/c_sharp_logo.png" width="10vw"> C#
-- <img src="./logos/mysql_logo.png" width="10vw"> MySQL
+- <img src="./logos/sql_logo.png" width="10vw"> SQL
 - <img src="./logos/html_logo.png" width="10vw"> HTML
 - <img src="./logos/css_logo.png" width="10vw"> CSS
 - <img src="./logos/javascript_logo.png" width="10vw"> Javascript
+- <img src="./logos/php_logo.png" width="10vw"> PHP
+- <img src="./logos/java_logo.png" width="10vw"> Java
 - <img src="./logos/markdown_logo.png" width="10vw"> Markdown
 - <img src="./logos/latex_logo.png" width="10vw"> Latex
 
@@ -34,6 +36,3 @@ June, 2023
 ## 📞 Business
 - 📧 [E-mail](mailto:diegomejiasuarez@gmail.com)
 - 🔗 <a href="https://yibizo.github.io/" target="_blank">Website</a>
-
-## 🔎 Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Yibizo.Yibizo)
